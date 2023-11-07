@@ -132,11 +132,3 @@ Contributions to this Solana program are welcome. You can contribute by submitti
 ## License
 
 This program is released under the [MIT License](LICENSE).
-
-Please refer to the program's repository for more details, documentation, and community guidelines.
-
----
-
-This README provides an overview of the Solana Airdrop Program. For detailed usage instructions and specific examples, please refer to the program's documentation and repository.
-
-**Note:** Make sure to keep the program and associated accounts secure to prevent unauthorized access and misuse.
