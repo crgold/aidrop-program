@@ -1,6 +1,6 @@
 # Solana Airdrop and Staking Program
 
-This is a professional README file for the Solana program titled "Airdrop Program." This program is implemented using the Anchor framework and provides functionality for initializing a token mint, performing airdrops, initializing a staking pool, initializing state accounts, depositing tokens, and withdrawing tokens. The README provides an overview of the program, its structure, and usage instructions.
+This program is implemented using the Anchor framework and provides functionality for initializing a token mint, performing airdrops, initializing a staking pool, initializing state accounts, depositing tokens, and withdrawing tokens. The README provides an overview of the program, its structure, and usage instructions.
 
 ## Table of Contents
 
